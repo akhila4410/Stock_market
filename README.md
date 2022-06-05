@@ -15,4 +15,8 @@ Implementation Steps:
 6. Predict the prices for test data
 7. Visualize the Predicted prices 
 
+For better understanding, I have also uploaded the jupyter Notebook.
+
+
+
 
