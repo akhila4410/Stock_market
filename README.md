@@ -1,8 +1,8 @@
- #                                     Stock_market Close price Prediction using Stacked LSTM
+ #                                     Stockmarket Close price Prediction using Stacked LSTM
 
 Long_Short_Term_Memory (LSTM)
 
-LSTM is an artificial recurrent neural network, one of the popular approaches for Stock_market Prediction. Due to its ability to store long-term data.
+LSTM is an artificial recurrent neural network, one of the popular approaches for Stockmarket Prediction. The reason they are popular is their ability to store long-term data.
 
 Aside from LSTM, ARIMA is a trendy model for Time Series Forecasting.
 
