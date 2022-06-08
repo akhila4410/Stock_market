@@ -6,6 +6,8 @@ LSTM is an artificial recurrent neural network, one of the popular approaches fo
 
 Aside from LSTM, ARIMA is a trendy model for Time Series Forecasting.
 
+In this project, we predict the stock price for upcoming days using a few stock parameters like volume, close price, etc using the LSTM model.
+
 Implementation Steps:
 1. Import the Required Libraries
 2. Read the CSV file
